@@ -3,8 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
 .vscode/
 
+=======
+>>>>>>> 2f1e2e3... Remove obsolete file
 # C extensions
 *.so
 
